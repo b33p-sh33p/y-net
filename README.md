@@ -1,2 +1,2 @@
 # y-network
-Basically a bunch of tools to help fellow students regain their internet.
+A resource-light website to help students gain their freedom.
