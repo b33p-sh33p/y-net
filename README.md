@@ -1,12 +1,16 @@
 # y-net
 
-#### Basic Information
+#### Information
 
-A site I made in order to help students regain their freedom.
+y-net is a site I made in order to help students regain their freedom.
 
 Birthdate: September 20, 2019
 
 Inspired by TitaniumPhoenix, however it is built from scratch.
+
+#### Backstory
+
+One day an ordinary student who happened to be me thought, "Why can't students have more privacy?" And thus, y-net was born.
 
 # Features offered
 
@@ -18,8 +22,8 @@ We have a small selection of music handpicked by me, but I plan to expand on it.
 
 There will soon be an instant messenger, please be patient (y-net is still in development)
 
-#### (ALSO COMING SOON) Games
+#### Games
 
-I also plan to add games to y-net.
+I am currently adding games to y-net. I do not plan to add any Flash games due to the EOL of Adobe Flash in 2020.
 
 #### And more!
