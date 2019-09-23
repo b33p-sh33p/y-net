@@ -1,8 +1,8 @@
 # y-net
 
-#### Information
-
 y-net is a site I made in order to help students regain their freedom.
+
+#### Information
 
 Birthdate: September 20, 2019
 
