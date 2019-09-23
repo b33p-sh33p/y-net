@@ -6,7 +6,11 @@ y-net is a site I made in order to help students regain their freedom.
 
 Birthdate: September 20, 2019
 
-Inspired by TitaniumPhoenix, however it is built from scratch.
+Inspired by TitaniumPhoenix, however most of y-net is built from scratch.
+
+#### Credit
+
+Credit to the Titanium Network devs for the Youtube proxy!
 
 #### Backstory
 
