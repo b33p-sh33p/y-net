@@ -16,11 +16,7 @@ One day an ordinary student who happened to be me thought, "Why can't students h
 
 #### Music
 
-We have a small selection of music handpicked by me, but I plan to expand on it.
-
-#### (COMING SOON) Instant Messenger
-
-There will soon be an instant messenger, please be patient (y-net is still in development)
+There is a small selection of music handpicked by me, but I plan to expand on it.
 
 #### Games
 
