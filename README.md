@@ -22,4 +22,8 @@ There is a small selection of music handpicked by me, but I plan to expand on it
 
 I am currently adding games to y-net. I do not plan to add any Flash games due to the EOL of Adobe Flash in 2020.
 
-#### And more!
+#### Tutorials
+
+There are also tutorials on how to do stuff.
+
+#### And more to come soon!
