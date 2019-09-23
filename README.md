@@ -3,7 +3,9 @@
 #### Basic Information
 
 A site I made in order to help students regain their freedom.
+
 Birthdate: September 20, 2019
+
 Inspired by TitaniumPhoenix, however it is built from scratch.
 
 # Features offered
