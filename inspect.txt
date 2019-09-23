@@ -1,0 +1,11 @@
+Alternative to the (blocked) inspect tool
+Note: Doesn't work with "chrome://" websites
+Step 1: Copy the code below
+
+javascript:(function() {var script=document.createElement('script');script.src='https://goggles.mozilla.org'+'/webxray.js';script.className='webxray';script.setAttribute('data-lang','en-US');script.setAttribute('data-baseuri','https://goggles.mozilla.org');document.body.appendChild(script);}())
+
+Step 2: Right-click (laptop users: click with 2 fingers) the bookmarks bar, and select "Add page"
+
+Step 3: Choose the bookmark title, then in the "URL" part replace the existing text with the code you copied
+
+There! Now if you need to use the inspect tool, just click the bookmark.
