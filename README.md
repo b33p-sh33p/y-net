@@ -4,8 +4,6 @@ y-net is a site I made in order to help students regain their freedom.
 
 #### Information
 
-Birthdate: September 20, 2019
-
 Inspired by TitaniumPhoenix, however most of y-net is built from scratch.
 
 #### Credit
@@ -31,3 +29,5 @@ I am currently adding games to y-net. I do not plan to add any Flash games due t
 There are also tutorials on how to do stuff.
 
 #### And more to come soon!
+
+Just create a pull request with the features you would like added in, and I just might add those features!
