@@ -18,7 +18,7 @@ One day an ordinary student who happened to be me thought, "Why can't students h
 
 #### Music
 
-There is a small selection of music handpicked by me, but I plan to expand on it.
+There is a small selection of music handpicked by me, but I plan to expand it in the near future.
 
 #### Games
 
