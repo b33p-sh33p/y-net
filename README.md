@@ -12,21 +12,17 @@ Credit to the Titanium Network devs for the Youtube proxy!
 
 #### Backstory
 
-One day an ordinary student who happened to be me thought, "Why can't students have more privacy?" And thus, y-net was born.
+One day an ordinary student who happened to be me thought, "Why can't students have more freedom?" And thus, y-net was born.
 
 # Features offered
 
-#### Music
-
-There is a small selection of music handpicked by me, but I plan to expand it in the near future.
-
 #### Games
 
-I am currently adding games to y-net. I do not plan to add any Flash games due to the EOL of Adobe Flash in 2020.
+I am currently adding games to y-net. I do not plan to add any Flash games due to the EOL of Adobe Flash in 2020, however HTML5 games will be added in the future.
 
 #### Tutorials
 
-There are also tutorials on how to do stuff.
+There are also bookmarklets to help you not get caught.
 
 #### And more to come soon!
 
