@@ -20,7 +20,7 @@ One day an ordinary student who happened to be me thought, "Why can't students h
 
 I am currently adding games to y-net. I do not plan to add any Flash games due to the EOL of Adobe Flash in 2020, however HTML5 games will be added in the future.
 
-#### Tutorials
+#### Bookmarklets
 
 There are also bookmarklets to help you not get caught.
 
