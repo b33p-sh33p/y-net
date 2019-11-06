@@ -6,10 +6,6 @@ y-net is a site I made in order to help students regain their freedom.
 
 Inspired by TitaniumPhoenix, however most of y-net is built from scratch.
 
-#### Credit
-
-Credit to the Titanium Network devs for the Youtube proxy!
-
 #### Backstory
 
 One day an ordinary student who happened to be me thought, "Why can't students have more freedom?" And thus, y-net was born.
