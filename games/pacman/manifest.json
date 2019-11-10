@@ -19,10 +19,10 @@
 
   "app": {
     "urls": [
-      "http://pacman.platzh1rsch.ch/"
+      "https://pacman.platzh1rsch.ch/"
     ],
     "launch": {
-      "web_url": "http://pacman.platzh1rsch.ch"
+      "web_url": "https://pacman.platzh1rsch.ch"
     }
 	
 	},
