@@ -1263,7 +1263,7 @@ Game.Launch=function()
 				
 				'</div><div class="subsection">'+
 				'<div class="title">What\'s next :</div>'+
-				'<div class="listing">-dungeons! <a href="http://orteil42.tumblr.com/post/61142292486" target="_blank">(check them out!)</a></div>'+
+				'<div class="listing">-dungeons! <a href="https://orteil42.tumblr.com/post/61142292486" target="_blank">(check them out!)</a></div>'+
 				'<div class="listing">-more buildings and upgrades!</div>'+
 				'<div class="listing">-revamping the prestige system!</div>'+
 				'<div class="listing"><span class="warning">Note : this game is updated fairly frequently, which often involves rebalancing. Expect to see prices and cookies/second vary wildly from one update to another!</span></div>'+
