@@ -1,6 +1,6 @@
 # y-net
 
-y-net is a site I made in order to help students regain their freedom. http://y-net.ga
+y-net is a site I made in order to help students regain their freedom. https://y-net.ga
 
 #### Information
 
