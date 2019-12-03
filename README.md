@@ -20,6 +20,14 @@ I am currently adding games to y-net. I do not plan to add any Flash games due t
 
 There are also bookmarklets to help you not get caught.
 
+#### Proxy
+
+There is a proxy to unblock websites.
+
+#### Chatbox
+
+You can chat with other y-net users using the chatbox. Just keep it PG, the chat is moderated.
+
 #### And more to come soon!
 
 Just create a pull request with the features you would like added in, and I just might add those features!
