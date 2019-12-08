@@ -6,10 +6,6 @@ y-net is a site I made in order to help students regain their freedom. https://y
 
 Inspired by TitaniumPhoenix, however most of y-net is built from scratch.
 
-#### Backstory
-
-One day an ordinary student who happened to be me thought, "Why can't students have more freedom?" And thus, y-net was born.
-
 # Features offered
 
 #### Games
@@ -31,3 +27,7 @@ You can chat with other y-net users using the chatbox. Just keep it PG, the chat
 #### And more to come soon!
 
 Just create a pull request with the features you would like added in, and I just might add those features!
+
+#### License
+
+If you decide to make a fork or something of y-net, you may, but it is required that you leave it free to use and open source.
