@@ -1,0 +1,46 @@
+h1 {
+    color: white;
+}
+
+@keyframes bgcolor {
+    25% {
+        background: rgb(65, 196, 222) none repeat scroll 0% 0%;
+    }
+
+   	50% {
+        background: rgb(140, 199, 63) none repeat scroll 0% 0%;
+    }
+
+    75% {
+        background: rgb(243, 211, 51) none repeat scroll 0% 0%;
+    }
+
+    100% {
+        background: rgb(247, 142, 86) none repeat scroll 0% 0%;
+    }
+}
+
+body {
+    animation: 14s ease 0s infinite alternate none running bgcolor;
+    background-color: rgb(69, 163, 229);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
