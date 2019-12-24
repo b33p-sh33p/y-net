@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "this site is protected, login info is on the discord server"
+AuthUserFile ../.htpasswd
+require valid-user
