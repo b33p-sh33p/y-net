@@ -17,11 +17,39 @@
         h1{
             font-size: 25px;
         }
+        .topnav {
+            overflow: hidden;
+            background-color: #264975;
+        }
+
+       .topnav a {
+            float: left;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+       .topnav a:hover {
+            background-color: black;
+            color: white;
+}
+
+       .topnav a.active {
+            background-color: #264975;
+            color: white;
         </style>
     </head>
     <body>
         <center>
-<a href="https://github.com/b33p-sh33p/y-net">Source </a> - <a href="./index.html"> Home </a> - <a href="https://discord.gg/cwhY5Rq"> Discord</a>
+        <div class="topnav">
+          <a class="active" href="./s1">Bookmarklets</a>
+          <a href="./s2">Games</a>
+          <a href="./s3">Chat</a>
+          <a href="./s4">Unblocker</a>
+          <a href="./s6">Donate</a>
+        </div>
     <h1>Here, there are bookmarklets - basically extensions in the form of a bookmark!<br>Just drag the links to your bookmark bar to install them, and click on the bookmark(s) to use them!<br></h1>
 <a href="javascript:(function() { var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'shortcut icon'; link.href = 'https://napavalleyusd.asp.aeries.net/student/favicon.ico'; document.title='Aeries Student Portal'; console.log(document.title); document.getElementsByTagName('head')[0].appendChild(link); })();">Disguise tabs as Aeries</a><br>
 <a href="javascript:(function(){['', '-ms-', '-webkit-', '-o-', '-moz-'].map(function(prefix){document.body.style[prefix + 'transform'] = 'rotate(180deg)';});}())">Flip a page upside down</a><br>
