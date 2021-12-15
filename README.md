@@ -1,6 +1,8 @@
 # y-net
 
-y-net is a site I made in order to help students regain their freedom. https://y-net.ga
+THIS SITE IS ABANDONED. GO TO https://worktheman.my.to IF YOU STILL NEED ITS SERVICES. 
+
+y-net is a site I made in order to help students regain their freedom. https://b33p-sh33p.github.io/y-net
 
 #### Information
 
